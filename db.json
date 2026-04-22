@@ -1,0 +1,22 @@
+{
+    "cursos": [
+        {
+            "id": 1,
+            "nome":"Mtec-PI Desenvolvimento de Sistema",
+            "disciplina":["webIII","PAM II", "BD"],
+            "carga-horaria":3600
+        },
+        {
+            "id": 2,
+            "nome":"M-Tec-N Informática, Informática para Internet",
+            "disciplina":["hardware "," softwares de escritório", "lógica de programação "],
+            "carga-horaria":1200
+        },
+        {
+            "id": 3,
+            "nome":"M-Tec Desenvolvimento de Sistema",
+            "disciplina":["webIII","PAM II", "BD"],
+            "carga-horaria":1200
+        }
+    ]
+}
